@@ -1,6 +1,6 @@
 # EuroNations-SQLitePy
 <p align="center">
-  <img src="https://github.com/MattiaCinelli/EuroNations-SQLitePy/blob/main/commons/banner.png" alt="Banner"  width="100%"/>
+  <img src="https://github.com/MattiaCinelli/EuroNations-SQLitePy/blob/master/commons/banner.png" alt="Banner"  width="100%"/>
 </p>
 
 A database of the major European Nations created in SQLite and Python.
@@ -45,5 +45,5 @@ mdb.insert_in_db(
 ```
 
 <p align="center">
-  <img src="https://github.com/MattiaCinelli/EuroNations-SQLitePy/blob/main/commons/sqlite_python.png" alt="Footer" width="100%"/>
+  <img src="https://github.com/MattiaCinelli/EuroNations-SQLitePy/blob/master/commons/sqlite_python.png" alt="Footer" width="100%"/>
 </p>
