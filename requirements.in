@@ -1,0 +1,38 @@
+wheel
+setuptools
+pathlib
+pysqlite3
+
+# Computational
+numpy
+pandas
+
+# Graphics
+matplotlib
+seaborn
+
+# Structure
+flit
+typing
+mypy
+
+# Notebook
+ipykernel
+
+# Debugging
+icecream
+
+# Formating
+black 
+
+# Coverage
+coverage 
+
+# Code quality
+flake8 
+mccabe 
+pylint 
+
+# Testing
+pytest 
+requests
